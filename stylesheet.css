@@ -26,3 +26,7 @@ ul{
 .section.bg {
   background: #f7f7f7; /* light grey background color */ 
 }
+.section .slider,
+.section .footer {
+  background: #2e1014; /*top and botton dark grey sections */
+}
