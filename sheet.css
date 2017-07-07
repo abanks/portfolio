@@ -1,5 +1,5 @@
 body{
-  background-color: #0D669F;
+  background-color: #898888;
 }
 
 section{
@@ -17,7 +17,7 @@ nav ul li{
   text-align:center;
   font-family:Helvetica, sans-serif;
   border: 1px dashed rgba(255,255,255, 0);
-  color:#FFFF00	;
+  color:#4b60780	;
   padding:10px 0 10px 0;
   margin:-1px -5px -1px -1px;
   cursor:pointer;
@@ -26,7 +26,7 @@ nav ul li{
 }
 nav ul li:hover{
   /*border:1px dashed #fff;*/
-  background:rgba(255,255,255,.1);
+  background:#eeeeee;
 }
 nav ul{
   border: 1px solid #fff;
@@ -39,11 +39,11 @@ nav div{
   position:absolute;
   left:0;
   top:16px;
-  background: #fff;
+  background: #eeeeee;
   width:162px;
   height:40px;
   z-index:99;
 }
 .active{
-  color:;
+  color:#4c89ce;
 }
