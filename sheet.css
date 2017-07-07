@@ -1,7 +1,9 @@
 body{
   background-color: #898888;
 }
-
+a{
+  text-decoration: none;
+}
 section{
   position:relative;
   width:640px;
