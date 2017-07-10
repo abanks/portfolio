@@ -34,11 +34,11 @@ ul{
   background: #2e1014; /*top and botton dark grey sections */
 }
 body{
-  background-color: #898888;
+  background-color: #2169A8;
 }
 a{
   text-decoration: none;
-  color: red;
+  color: #000000;
 }
 section{
   position:relative;
