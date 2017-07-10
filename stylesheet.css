@@ -64,7 +64,8 @@ nav ul li{
 }
 nav ul li:hover{
   /*border:1px dashed #fff;*/
-  background:#ffe5ea;
+  /*background:#ffe5ea;*/
+  background:red;
 }
 nav ul{
   border: 1px solid #000000;
@@ -78,7 +79,7 @@ nav div{
   left:0;
   top:16px;
   background: #ffe5ea;
-  width:180px;
+  width:162px;
   height:40px;
   z-index:99;
 }
