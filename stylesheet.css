@@ -34,7 +34,7 @@ ul{
   background: #2e1014; /*top and botton dark grey sections */
 }
 body{
-  background-color: #2169A8;
+  background-color: #ffffff;
 }
 a{
   text-decoration: none;
@@ -55,7 +55,7 @@ nav ul li{
   text-align:center;
   font-family:Helvetica, sans-serif;
   border: 1px dashed rgba(255,255,255, 0);
-  color:#4b60780	;
+  color:#000000	;
   padding:10px 0 10px 0;
   margin:-1px -5px -1px -1px;
   cursor:pointer;
