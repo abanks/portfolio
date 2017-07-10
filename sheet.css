@@ -1,9 +1,9 @@
 body{
-  background-color: #cccccc;
+  background-color: #000000;
 }
 a{
   text-decoration: none;
-  color: #000000;
+  color: #ffffff;
 }
 section{
   position:relative;
@@ -20,7 +20,7 @@ nav ul li{
   text-align:center;
   font-family:Helvetica, sans-serif;
   border: 1px dashed rgba(255,255,255, 0);
-  color:#4b60780	;
+  color:#ffffff	;
   padding:10px 0 10px 0;
   margin:-1px -5px -1px -1px;
   cursor:pointer;
