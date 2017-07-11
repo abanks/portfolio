@@ -65,6 +65,7 @@ nav ul li{
 nav ul li:hover{
   /*border:1px dashed #fff;*/
   background:#ffe5ea;
+  width: 100%;
 }
 nav ul{
   border: 1px solid #000000;
